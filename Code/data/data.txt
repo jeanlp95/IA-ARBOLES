@@ -1,0 +1,20 @@
+Santa Marta,16,12
+Rihoacha,15,10
+Barranquilla,14,13
+Barrancabermeja,5,8
+Montería,7,19
+Pailitas,7,2
+El Banco,6,4
+Curumaní,9,4
+Codazi,13,6
+Sabana Larga,12,15
+Cartagena,10,17
+Mompox,3,3
+El Bagre,5,13
+Ituango,6,10
+Ocaña,3,5
+Caucasia,6,16
+Cincelejo,9,19
+Aguachica,3,7
+Valledupar,14,8
+Chiriguaná,11,5
