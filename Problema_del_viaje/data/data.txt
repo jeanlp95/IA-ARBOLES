@@ -1,0 +1,20 @@
+Paipa,6,15
+Quinchía,-11,10
+Cuchillas de salado,-4,5
+Duitama,9,17
+Tibaná,15,12
+Puerto Boyacá,1,19
+La Pintada,-7,14
+Medellín,-5,20
+Zipaquirá,9,9
+Villa de Leyva,3,17
+Puerto Berrio,-2,19
+Honda,-9,8
+Tunja,4,15
+Andes,-9,16
+Rio Sucio,-9,12
+Bogotá,3,7
+Sogamoso,13,16
+El Cedrito,-7,6
+Chía,7,8
+Rio Negro,7,19
